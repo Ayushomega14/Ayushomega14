@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushomega14" alt="ayushomega14" /></a> </p>
 
-- 🌱 I’m currently learning **c, c++ ,java ,python etc**
+- 🌱 I’m currently learning **Web Development and Cuda programming etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushomega14?tab=repositories](https://github.com/Ayushomega14?tab=repositories)
 
 - 💬 Ask me about **c , c++**
 
-- 📫 How to reach me **piyushayush2914@gmail.com**
+- 📫 How to reach me **ar5787@srmist.edu.in**
 
 - ⚡ Fun fact **Coders often find debugging as the "fun" part of coding. It's like being a detective, solving mysteries in your code! 🔍💻**
 
