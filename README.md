@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm AYUSH RAJ</h1>
 <h3 align="center">A passionate CODER from India</h3>
 
@@ -7,10 +6,10 @@
 <div align="center">
 <img src="https://github.com/Ayushomega14/Ayushomega14/assets/113172241/8326740e-214e-46ab-831d-a995ae2577b6" align="center" style="width: 100%" />
 </div>  
-  
 
+<hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushomega14" alt="ayushomega14" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushomega14" alt="ayushomega14" /></a> </p>
 
 - 🔭 I’m currently working on [nothing](https://github.com/Ayushomega14/Ayushomega14/blob/main/README.md)
 
@@ -24,15 +23,9 @@
 
 - ⚡ Fun fact **Coders often find debugging as the "fun" part of coding. It's like being a detective, solving mysteries in your code! 🔍💻**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush raj" height="30" width="40" /></a>
-<a href="https://instagram.com/_ayush_omega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ayush_omega" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayush raj @ra2211003010447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayush raj @ra2211003010447" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ar5787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ar5787" height="30" width="40" /></a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Skills:</h3> 
+<h3 align="center">Languages and Skills:</h3> 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -75,7 +68,20 @@
 <br/>  
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushomega14&" alt="ayushomega14" width="40%" align="center"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushomega14&show_icons=true&locale=en" alt="ayushomega14" width="40%" valign="right"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushomega14&show_icons=true&locale=en&layout=compact" alt="ayushomega14" width="40%"/></p>
+<div style="display:flex; justify-content:space-between; width:100%">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushomega14&" alt="ayushomega14"/></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushomega14&show_icons=true&locale=en&layout=compact" alt="ayushomega14"/></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushomega14&show_icons=true&locale=en" alt="ayushomega14"/></p>
+</div>
+<hr>
+<br>
 
+<h3 align="center">Connect with me:</h3>
+</p>
+<div align="center">
+<p align="center">
+<a href="https://linkedin.com/in/ayush raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush raj" height="30" width="40" /></a>
+<a href="https://instagram.com/_ayush_omega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ayush_omega" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayush raj @ra2211003010447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayush raj @ra2211003010447" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ar5787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ar5787" height="30" width="40" /></a>
+</div>
