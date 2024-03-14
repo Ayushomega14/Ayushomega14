@@ -12,6 +12,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushomega14" alt="ayushomega14" /></a> </p>
 
+- 🔭 I’m currently working on [nothing](https://github.com/Ayushomega14/Ayushomega14/blob/main/README.md)
+
 - 🌱 I’m currently learning **Web Development and Cuda programming etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushomega14?tab=repositories](https://github.com/Ayushomega14?tab=repositories)
