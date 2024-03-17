@@ -9,10 +9,6 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/Ayushomega14/Ayushomega14/output/snake.svg" alt="Snake animation" />
-
-###
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushomega14" alt="ayushomega14" /></a> </p>
 
 - 🔭 I’m currently working on [Weather Website using API](https://github.com/Ayushomega14/Weather-website-using-API)
 
@@ -69,16 +65,18 @@
 </td></tr></table>  
 
 <br/>  
+<hr>
 
+<h3 align="center">My Github Stats:</h3> 
 
 <div style="display:flex; justify-content:space-between; width:100%">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushomega14&" alt="ayushomega14"/></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushomega14&show_icons=true&locale=en&layout=compact" alt="ayushomega14"/></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushomega14&show_icons=true&locale=en" alt="ayushomega14"/></p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushomega14" alt="ayushomega14" /></a> </p>
+  <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushomega14&show_icons=true&locale=en&layout=compact" alt="ayushomega14"/></p>
+
+###
 </div>
 <hr>
 <br>
-
 <h3 align="center">Connect with me:</h3>
 </p>
 <div align="center">
