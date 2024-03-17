@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AYUSH RAJ</h1>
 <h3 align="center">A passionate CODER from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushomega14&label=Profile%20views&color=0e75b6&style=flat" alt="ayushomega14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushomega14&label=Profile%20views&color=0e75b6&style=flat" alt="ayushomega14" /> </p>
 
 <div align="center">
 <img src="https://github.com/Ayushomega14/Ayushomega14/assets/113172241/8326740e-214e-46ab-831d-a995ae2577b6" align="center" style="width: 100%" />
@@ -9,6 +9,9 @@
 
 <hr>
 
+<img src="https://raw.githubusercontent.com/Ayushomega14/Ayushomega14/output/snake.svg" alt="Snake animation" />
+
+###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushomega14" alt="ayushomega14" /></a> </p>
 
 - 🔭 I’m currently working on [Weather Website using API](https://github.com/Ayushomega14/Weather-website-using-API)
