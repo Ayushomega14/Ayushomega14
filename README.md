@@ -10,9 +10,8 @@
 <hr>
 
 
-- 🔭 I’m currently working on [Weather Website using API](https://github.com/Ayushomega14/Weather-website-using-API)
-
-- 🌱 I’m currently learning **Web Development and Cuda programming etc**
+- 🔭 I’m currently working on [Crop Yield Predictor Using Machine Learning].
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushomega14?tab=repositories](https://github.com/Ayushomega14?tab=repositories)
 
