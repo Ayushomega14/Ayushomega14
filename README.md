@@ -76,7 +76,7 @@
 </div>
 <hr>
 <br>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me :</h3>
 </p>
 <div align="center">
 <p align="center">
